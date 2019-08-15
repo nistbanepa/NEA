@@ -1,0 +1,27 @@
+
+body{
+    max-width: 1000px;
+    margin:auto;
+}
+.pic{
+    float: right;
+    padding: 20px;
+}
+	nav{
+        padding: 15px;
+    text-size-adjust: 10px;
+    background-color: none;
+    }
+    /* Style the search box inside the navigation bar */
+.topnav input[type=text] {
+    float: right;
+    padding: 1px;
+    border: 1px solid black;
+    margin-top: 1px;
+    margin-right: 200px;
+    font-size: 18px;
+  }
+    p,h2{
+        color: skyblue;
+    }
+    
