@@ -1,2 +1,0 @@
-# NEA
-First Project
